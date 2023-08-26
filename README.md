@@ -1,4 +1,3 @@
-# Contact-Management-App
 
 <h1>Contact Management App with Charts and Maps</h1>
 
